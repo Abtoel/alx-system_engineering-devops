@@ -1,1 +1,1 @@
-This is my first Shell Script
+This is Used To Print The Abslute Path of The Current Directory
